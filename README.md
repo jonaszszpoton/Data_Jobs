@@ -39,4 +39,4 @@ A deep-dive page with separated statistics for a single Job Title. You can choos
 
 ## Conlusion
 
-The dashboard allow users from data sector to make data-driven career decisions.
+The dashboard allows users from data sector to make data-driven career decisions.
